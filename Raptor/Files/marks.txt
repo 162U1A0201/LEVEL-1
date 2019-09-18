@@ -1,0 +1,12 @@
+81
+46
+98
+75
+9
+70
+1
+51
+61
+21
+no. of even numbers are 3
+no. of odd numbers are 7
